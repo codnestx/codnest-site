@@ -1,0 +1,111 @@
+.group-1,
+.group-1 * {
+  box-sizing: border-.box;
+}
+.group-1 {
+  position: relative;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 705px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.full-stack-developer-mean {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 18px;
+  top: 8px;
+  width: 380px;
+  height: 33px;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 90px;
+  height: 28px;
+  position: absolute;
+  left: 18px;
+  top: 47px;
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 77px;
+  height: 28px;
+  position: absolute;
+  left: 113px;
+  top: 47px;
+}
+.full-time {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 52px;
+  width: 70px;
+  height: 16px;
+}
+.on-site {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 123px;
+  top: 52px;
+  width: 70px;
+  height: 16px;
+}
+.untitled-design-11-1 {
+  opacity: 0.23000000417232513;
+  width: 250.72px;
+  height: 148.7px;
+  position: absolute;
+  left: 471px;
+  top: 104.03px;
+  transform-origin: 0 0;
+  transform: rotate(-23.763deg) scale(1, 1);
+  object-fit: cover;
+}
+.experience-1-2-years {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 88px;
+  width: 188px;
+  height: 16px;
+}
+.looking-for-a-full-stack-developer-skilled-in-front-end-and-back-end-technologies-responsibilities-include-web-app-development-collaboration-and-performance-optimization-required-expertise-in-java-script-html-css-and-frameworks-like-react-or-angular-with-node-js-or-python-strong-problem-solving-skills-and-agile-familiarity-preferred-join-us-for-impactful-web-development-work {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 113px;
+  width: 647px;
+  height: 84px;
+}
